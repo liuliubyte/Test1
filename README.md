@@ -1,7 +1,4 @@
 # 🎓 学习通全能 AI 做题助手 (ChaoXing AI Assistant)
-
-![Version](https://img.shields.io/badge/version-v6.1-blue.svg)
-![License](https://img.shields.io/badge/license-MIT-green.svg)
 ![Author](https://img.shields.io/badge/author-Hutch-orange.svg)
 
 基于大语言模型（支持智谱 GLM / DeepSeek）的 Tampermonkey（油猴）自动化脚本，专为解决复杂网页嵌套环境下的题目抓取与自动作答而设计。告别繁琐的弹窗，享受沉浸式的自动化做题体验！
@@ -9,6 +6,7 @@
 ✨ **UI Design by Hutch**
 
 ---
+**必读**(智谱可使用官方免费的glash4 flash模型，但速度较慢质量较差，这里建议使用DeepSeek版本，速度更快更稳定，且V4-flash模型性价比非常高，最后一点，代码里记得添加你的API(只要在一个位置添加即可)，代码不够完美精简，欢迎各位共同升级)
 
 ## 🌟 核心特性 (Features)
 
